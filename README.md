@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darya
 =============================================================================================================================
 
-<img width="400" align="center" alt="Mila" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
+<img width="400" align="right" alt="Mila" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 * 🌍  I'm based in Moscow, Russian Federation
 * 🧠  I'm learning SQL. I love databases
 
