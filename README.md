@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img width="400" align="right" alt="Mila" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 * 🌍  I'm based in Moscow, Russian Federation</br>
-* 🧠  I'm learning SQL. I love databases
+* 🧠  I'm learning SQL.. I love databases
 
 ### Skills
 
